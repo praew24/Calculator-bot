@@ -1,2 +1,5 @@
-for discord.js v14
-run npm install discord.js
+# for discord.js v14
+## Install
+### npm
+run 'npm install discord.js'
+
